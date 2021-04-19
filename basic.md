@@ -20,7 +20,7 @@ const tiposDeDados = () => { // isso é uma funcao sem parametro
     console.log(`Isso é um Date`, new Date())
     console.log(`Isso é um array`, [1, 2, 3, 4, 5])
     console.log(`Isso é um buffer`, Buffer.of('meu conteudo a ser bufferizado'))
-    console.log(`Isso é um objeto com campos e valores`, { id: 100, name: 'Joãozinho' })
+    console.log(`Isso é um objeto com chaves e valores`, { id: 100, name: 'Joãozinho' })
     console.log(`Isso é uma função`, () => {})
 }
 ```
@@ -332,6 +332,8 @@ cdg.minhaFuncaoLinda('Joselito')
 // isso invoca a funcao do meu módulo e cospe no console a mensagem 'Olha o nome do candango: Joselito'
 
 ```
+
+O comando `require` faz o cache dos modulos usando singletons e tem carregamento sincrono. Assim ele otimiza a carga e interpretacao do js dos modulos importados na primeira vez que forem importados e nas demais importacoes ele só carrega do cache.
 
 ## Atribuição da valores, binding, unboxing e spread
 
