@@ -415,4 +415,40 @@ Lá podemos encontrar as funcoes de praticamente todos os objetos que funcionam 
 
 Por exemplo, a descricao e exemplo do uso de find de um array [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
 
-O que vamos usar em mais de 90% do nosso tempo? A documentação de Promise, String, Array, Object, RegExp e Math. O restante só se precisar, mas é raro.
+O que vamos usar na quase totalidade do nosso dia-a-dia? A documentação de Promise, Array, String, Object, JSON, RegExp e Math. O restante só se precisar, mas é raro.
+
+Por ordem de uso, com os itens em negrito da lista voce ja entende / conhece quase 90% dos codigos em nodejs. Com todos os itens voce ja conhece mais de 90%.
+
+**Promise.resolve**
+**Promise.reject**
+**Promise.all**
+
+**array.length**
+**array.map**
+**array.filter**
+**array.find**
+**array.reduce**
+array.pop
+array.push
+array.concat
+array.shift
+array.reverse
+
+**string.replace**
+**string.toLowerCase**
+**string.toUpperCase**
+**string.match**
+string.includes
+string.startsWith
+string.trim
+
+**Object.keys**
+**Object.assign**
+**Object.values**
+
+**JSON.parse**
+**JSON.stringify**
+
+**regex.compile**
+**regex.test**
+**regex.exec**
