@@ -26,6 +26,10 @@ Assuntos por tópico
 
 [Sobre gerenciador de pacotes do nodejs](https://github.com/joseteodoro/nodejs-fp-course/blob/main/npm.md)
 
+## Dependencias no nodejs
+
+[Sobre o package.json](https://github.com/joseteodoro/nodejs-fp-course/blob/main/package-json.md)
+
 ## Fugindo dos news dando prioridade para funções
 
 [Sobre concorrencia com call backs e promises](https://github.com/joseteodoro/nodejs-fp-course/blob/main/promises.md)

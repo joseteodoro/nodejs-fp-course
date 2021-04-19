@@ -407,3 +407,12 @@ No caso do `spread` nós literalmente explodimos os valores do objeto para dentr
     const zeroBased = [0, ...src] // zeroBased = [ 0, 1, 3, 5, 7, 9 ]
 ```
 
+## Built-in functions
+
+Uma boa fonte para procurar sobre o que temos ou nao dentro no basico do js é o site do mdn da mozilla sobre javascript [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Lá podemos encontrar as funcoes de praticamente todos os objetos que funcionam no javascript além de seus usos com exemplos.
+
+Por exemplo, a descricao e exemplo do uso de find de um array [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+
+O que vamos usar em mais de 90% do nosso tempo? A documentação de Promise, String, Array, Object, RegExp e Math. O restante só se precisar, mas é raro.
