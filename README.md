@@ -6,6 +6,10 @@ Curso / hands-on ministrado para a squad cobrindo desde conceitos básicos do no
 
 Assuntos por tópico
 
+## Js básico
+
+[Sobre js basico](https://github.com/joseteodoro/nodejs-fp-course/blob/main/basic.md)
+
 ## Event Loop
 
 [Sobre event loop](https://github.com/joseteodoro/nodejs-fp-course/blob/main/event-loop.md)
@@ -22,11 +26,6 @@ Assuntos por tópico
 
 [Sobre gerenciador de pacotes do nodejs](https://github.com/joseteodoro/nodejs-fp-course/blob/main/npm.md)
 
-
-## Js básico
-
-[Sobre js basico](https://github.com/joseteodoro/nodejs-fp-course/blob/main/basic.md)
-
-
 ## Fugindo dos news dando prioridade para funções
 
+[Sobre concorrencia com call backs e promises](https://github.com/joseteodoro/nodejs-fp-course/blob/main/promises.md)
