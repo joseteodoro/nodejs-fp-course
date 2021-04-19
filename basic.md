@@ -422,6 +422,8 @@ Por ordem de uso, com os itens em negrito da lista voce ja entende / conhece qua
 **Promise.resolve**
 **Promise.reject**
 **Promise.all**
+**Promise.then**
+**Promise.catch**
 
 **array.length**
 **array.map**
