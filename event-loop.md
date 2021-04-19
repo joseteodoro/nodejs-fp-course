@@ -8,4 +8,6 @@ Como consequencia, temos que o nodejs executa as coisas de modo concorrente. Iss
 
 Contudo, podemos garantir a ordem em que as coisas executam. Fazemos isso usando promises com as funções `then` e `reject`.
 
+Esse uso do processador por pequenas tarefas possibilita que o nodejs performe melhor que outras linguagens usando um unico processador.
+
 [Como funciona o event loop](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#what-is-the-event-loop)
