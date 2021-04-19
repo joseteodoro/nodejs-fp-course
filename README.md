@@ -29,3 +29,7 @@ Assuntos por tópico
 ## Fugindo dos news dando prioridade para funções
 
 [Sobre concorrencia com call backs e promises](https://github.com/joseteodoro/nodejs-fp-course/blob/main/promises.md)
+
+## Construindo uma API rest com sqlite
+
+[Hands-on com api](https://github.com/joseteodoro/nodejs-fp-course/blob/main/hands-on-api.md)
