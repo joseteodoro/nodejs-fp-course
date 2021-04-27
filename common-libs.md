@@ -64,7 +64,6 @@ moment-timezone [link](https://www.npmjs.com/package/moment-timezone): lib para 
 
 eslint [link](https://www.npmjs.com/package/eslint): verificacao de estilo de código, bad smells e problemas de código. Integra com o vscode e vai apontando para voce onde temos problemas, desde possiveis excecoes por algo estar null até problemas de complexidade de funções;
 
-
 nyc [link](https://www.npmjs.com/package/nyc): equivalente ao jacoco do java. Calcula coverage e pode ser integrado ao vscode para pintar as linhas que nao estao cobertas pelos testes;
 
 sonar-scanner [link](https://www.npmjs.com/package/sonar-scanner): plugin do sonar que funciona com a simples adição de um arquivo de config na raiz do projeto;
@@ -72,4 +71,3 @@ sonar-scanner [link](https://www.npmjs.com/package/sonar-scanner): plugin do son
 supertest [link](https://www.npmjs.com/package/supertest): consegue subir sua aplicação em memoria para rodar os seus testes de integração. Não abre portas da maquina e afins, assim você pode rodar varios testes juntos sem se preocupar com os conflitos; Tambem deixa voce trabalhar com mocks nas dependencias;
 
 ramda [link](https://www.npmjs.com/package/ramda): lib com utilidades de FP (functional programming) que ajudam e simplificam muito o código, apesar de necessitar de algum tempo para se acostumar com as funções da lib, a documentação é bem completa.
-
